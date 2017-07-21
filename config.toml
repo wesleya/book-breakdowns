@@ -1,6 +1,6 @@
 baseurl = "https://example.com"
 languageCode = "en"
-title = "Hemingway2"
+title = "Test Name"
 theme = "hemingway2"
 copyright = "&copy; <a href=\"https://github.com/beli3ver\">Malte Kiefer</a> 2016"
 disqusShortname = "shortname"
@@ -12,7 +12,19 @@ keywords = ["keyword1", "keyword2"]
 tag = "tags"
 category = "categories"
 
+[[menu.main]]
+    url = "/Directory/"
+    name = "Posts"
+    weight = 2
+
+[[menu.main]]
+    url = "/News-Letter/"
+    name = "News Letter"
+    weight = 3
+
 [params]
+
+subtitle = "Hugo is Absurdly Fast!"
 
 [params.highlight]
 style = "github"
