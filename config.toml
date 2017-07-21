@@ -13,6 +13,11 @@ tag = "tags"
 category = "categories"
 
 [[menu.main]]
+    url = "/"
+    name = "Home"
+    weight = 2
+
+[[menu.main]]
     url = "/Directory/"
     name = "Posts"
     weight = 2
