@@ -1,6 +1,6 @@
 baseurl = "https://example.com"
 languageCode = "en"
-title = "Test Name"
+title = "The Simple Web Developer"
 theme = "hemingway2"
 copyright = "&copy; <a href=\"https://github.com/beli3ver\">Malte Kiefer</a> 2016"
 disqusShortname = "shortname"
