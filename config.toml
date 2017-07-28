@@ -23,8 +23,8 @@ category = "categories"
     weight = 2
 
 [[menu.main]]
-    url = "/News-Letter/"
-    name = "News Letter"
+    url = "/Newsletter/"
+    name = "Newsletter"
     weight = 3
 
 [params]
