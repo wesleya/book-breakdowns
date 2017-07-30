@@ -2,7 +2,7 @@
 title = "Getting Started with Hugo"
 description = ""
 date = "2014-04-02"
-author: "Michael Henderson"
+author = "Michael Henderson"
 +++
 
 ## Step 1. Install Hugo

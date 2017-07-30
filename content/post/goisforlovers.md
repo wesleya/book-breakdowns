@@ -2,7 +2,7 @@
 title = "(Hu)go Template Primer"
 description = ""
 date = "2014-04-02"
-author: "Michael Henderson"
+author = "Michael Henderson"
 +++
 
 Hugo uses the excellent [go][] [html/template][gohtmltemplate] library for

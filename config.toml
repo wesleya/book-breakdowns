@@ -1,6 +1,6 @@
 baseurl = "https://example.com"
 languageCode = "en"
-title = "The Simple Web Developer"
+title = "Book Breakdowns"
 theme = "hemingway2"
 copyright = "&copy; <a href=\"https://github.com/beli3ver\">Malte Kiefer</a> 2016"
 disqusShortname = "shortname"
@@ -13,19 +13,14 @@ tag = "tags"
 category = "categories"
 
 [[menu.main]]
-    url = "/"
+    url = ""
     name = "Home"
-    weight = 2
+    weight = 1
 
 [[menu.main]]
-    url = "/Directory/"
+    url = "/post/"
     name = "Posts"
     weight = 2
-
-[[menu.main]]
-    url = "/News-Letter/"
-    name = "News Letter"
-    weight = 3
 
 [params]
 
@@ -54,3 +49,5 @@ fa_icon = "fa-telegram"
 [[params.social]]
 url = "/index.xml"
 fa_icon = "fa-rss"
+
+pluralizeListTitles = true
