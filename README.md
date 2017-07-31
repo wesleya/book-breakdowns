@@ -20,3 +20,7 @@
     * newsletter
 * review for design book, just give credits
 * tools of titans
+
+## eventually
+
+* build bulma instead of using cdn, then override variables and styles instead of using inlines
