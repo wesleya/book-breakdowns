@@ -10,12 +10,11 @@
 * footer
     * make links work
 * pages
-    * request/next up list
-    * recent
+    * make separate layout for page vs post
+    * posts - add posts
     * archive
     * newsletter
-    * privacy
-    * terms
+    * terms/privacy
 
 ## eventually
 
