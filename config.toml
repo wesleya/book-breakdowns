@@ -17,7 +17,7 @@ category = "categories"
     weight = 1
 
 [[menu.main]]
-    url = "/post/"
+    url = "/post"
     name = "Posts"
     weight = 2
 

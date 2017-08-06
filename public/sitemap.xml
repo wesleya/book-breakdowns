@@ -3,49 +3,49 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/about/</loc>
+    <loc>https://bookbreakdowns.com/about/</loc>
     <lastmod>2017-08-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/so-good-they-cant-ignore-you/</loc>
+    <loc>https://bookbreakdowns.com/post/so-good-they-cant-ignore-you/</loc>
     <lastmod>2017-08-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/the-passionate-programmer/</loc>
+    <loc>https://bookbreakdowns.com/post/the-passionate-programmer/</loc>
     <lastmod>2017-08-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/terms/</loc>
+    <loc>https://bookbreakdowns.com/terms/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/newsletter/</loc>
+    <loc>https://bookbreakdowns.com/newsletter/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/</loc>
+    <loc>https://bookbreakdowns.com/</loc>
     <lastmod>2017-08-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://bookbreakdowns.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/post/</loc>
+    <loc>https://bookbreakdowns.com/post/</loc>
     <lastmod>2017-08-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://bookbreakdowns.com/tags/</loc>
     <priority>0</priority>
   </url>
   

@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Book Breakdowns</title>
-    <link>https://example.com/</link>
+    <link>https://bookbreakdowns.com/</link>
     <description>Recent content on Book Breakdowns</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; &lt;a href=&#34;https://github.com/beli3ver&#34;&gt;Malte Kiefer&lt;/a&gt; 2016</copyright>
     <lastBuildDate>Fri, 04 Aug 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://bookbreakdowns.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>https://example.com/about/</link>
+      <link>https://bookbreakdowns.com/about/</link>
       <pubDate>Fri, 04 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/about/</guid>
+      <guid>https://bookbreakdowns.com/about/</guid>
       <description>Have questions or suggestions? Email me at wesley.agena@gmail.com.
 Thanks for reading!</description>
     </item>
     
     <item>
       <title>So Good They Can&#39;t Ignore You: Why Skills Trump Passion in the Quest for Work You Love</title>
-      <link>https://example.com/post/so-good-they-cant-ignore-you/</link>
+      <link>https://bookbreakdowns.com/post/so-good-they-cant-ignore-you/</link>
       <pubDate>Fri, 04 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/so-good-they-cant-ignore-you/</guid>
+      <guid>https://bookbreakdowns.com/post/so-good-they-cant-ignore-you/</guid>
       <description>In his book “So Good They Can’t Ignore You”, Cal recounts his quest to answer the question of why some people end up loving what they do, and why others fail. The common career advice is to “Follow your passion.” First figure out what you’re passionate about, and then find a job that matches this passion. However, Cal decides early on that this is actually very bad career advice.</description>
     </item>
     
     <item>
       <title>The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life)</title>
-      <link>https://example.com/post/the-passionate-programmer/</link>
+      <link>https://bookbreakdowns.com/post/the-passionate-programmer/</link>
       <pubDate>Fri, 04 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/the-passionate-programmer/</guid>
+      <guid>https://bookbreakdowns.com/post/the-passionate-programmer/</guid>
       <description>In his book, &amp;ldquo;The Passionate Programmer&amp;rdquo;, Chad Fowler explains how you likely aren&amp;rsquo;t putting enough thought into your career as a software developer. Most people follow the common path of taking the first job they get accepted to out of school. This first job will require you to learn certain skills, technologies, and habits. And this will in turn lead you to a next job with similar requirements in the future, which will lead you to the next and so on.</description>
     </item>
     
     <item>
       <title>Book Breakdowns Terms of Service and Privacy Policy</title>
-      <link>https://example.com/terms/</link>
+      <link>https://bookbreakdowns.com/terms/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/terms/</guid>
+      <guid>https://bookbreakdowns.com/terms/</guid>
       <description>1. Terms By accessing the website at https://bookbreakdowns.com, you are agreeing to be bound by these terms of service, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from using or accessing this site. The materials contained in this website are protected by applicable copyright and trademark law.</description>
     </item>
     
     <item>
       <title>Newsletter</title>
-      <link>https://example.com/newsletter/</link>
+      <link>https://bookbreakdowns.com/newsletter/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/newsletter/</guid>
+      <guid>https://bookbreakdowns.com/newsletter/</guid>
       <description>To Do Newsletter</description>
     </item>
     
