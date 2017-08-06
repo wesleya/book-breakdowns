@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta content="" name="keywords">
+<meta content="Book Breakdowns" property="og:title">
+<title>Book Breakdowns</title>
+<link rel="stylesheet" href="/css/style.css">
+<link rel="stylesheet" href="/css/font-awesome-core.css">
+<link rel="stylesheet" href="/css/font-awesome-light.css">
+<link href="https://fonts.googleapis.com/css?family=Eczar:400,800" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Work+Sans:300,400" rel="stylesheet">
+
+
+<body>
+<div class="container">
+
+  <nav class="navbar">
+    <div class="navbar-brand">
+
+      <div class="navbar-burger" data-target="navMenu">
+        <span></span>
+        <span></span>
+        <span></span>
+      </div>
+    </div>
+
+    <div class="navbar-menu" id="navMenu">
+      <div class="navbar-start">
+        
+        <a class="navbar-item" href="/">
+          Home
+        </a>
+        
+        <a class="navbar-item" href="/post//">
+          Posts
+        </a>
+        
+        <a class="navbar-item" href="/about//">
+          About
+        </a>
+        
+        <a class="navbar-item" href="/newsletter//">
+          Newsletter
+        </a>
+        
+      </div>
+    </div>
+
+  </nav>
+
+</div>
+
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+
+        
+        var $navbarBurgers = Array.prototype.slice.call(document.querySelectorAll('.navbar-burger'), 0);
+
+        
+        if ($navbarBurgers.length > 0) {
+
+            
+            $navbarBurgers.forEach(function ($el) {
+                $el.addEventListener('click', () => {
+
+                    
+                    var target = $el.dataset.target;
+                    var $target = document.getElementById(target);
+
+                    
+                    $el.classList.toggle('is-active');
+                    $target.classList.toggle('is-active');
+
+                });
+            });
+        }
+
+    });
+</script>
+
+
+
+
+<section class="hero is-primary is-bold">
+    <div class="hero-body">
+        <div class="container">
+            <h1 class="title is-size-2-mobile is-size-1-tablet is-size-1-desktop" style="font-family: 'Eczar', serif;">
+                Book Breakdowns
+            </h1>
+            <h2 class="subtitle is-size-4-mobile is-size-2-tablet is-size-3-desktop">
+                It's Kinda Like <a>Sparknotes</a> for Your Career!
+            </h2>
+        </div>
+    </div>
+</section>
+
+<div class="section">
+    <div class="container">
+        <h2 class="subtitle is-size-4-mobile is-size-2-tablet is-size-3-desktop">It's Kinda Like What?</h2>
+        <div class="columns">
+            <div class="column">
+                <div class="card">
+                    <div class="card-image has-text-centered">
+                        <span class="fa-stack is-primary" style="font-size: 100px; padding-top: 15px;">
+                            <i class="fal fa-circle fa-stack-2x"></i>
+                            <i class="fal fa-book fa-stack-1x"></i>
+                        </span>
+                    </div>
+                    <div class="card-content">
+                        <div clas="content">
+                            <p class="subtitle has-text-centered">
+                                <a>I read</a> self help books all day. Cause I have no life.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="column">
+                <div class="card">
+                    <div class="card-title has-text-centered">
+                        <span class="fa-stack" style="font-size: 100px; padding-top: 15px;">
+                            <i class="fal fa-circle fa-stack-2x"></i>
+                            <i class="fal fa-pencil fa-stack-1x"></i>
+                        </span>
+                    </div>
+                    <div class="card-content">
+                        <div class="content">
+                            <p class="subtitle has-text-centered">
+                                <a>I take notes</a> so I remember what I read.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="column">
+                <div class="card">
+                    <div class="card-image has-text-centered">
+                        <span class="fa-stack" style="font-size: 100px; padding-top: 15px;">
+                            <i class="fal fa-circle fa-stack-2x"></i>
+                            <i class="fal fa-list-ol fa-stack-1x"></i>
+                        </span>
+                    </div>
+                    <div class="card-content">
+                        <div clas="content">
+                            <p class="subtitle has-text-centered">
+                                <a>I might as well post</a> those notes here for you too right?!
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="section">
+    <div class="container">
+        <h1 class="subtitle is-size-4-mobile is-size-2-tablet is-size-3-desktop">Get Started Here</h1>
+        <div class="columns">
+            <div class="column">
+                <div class="card">
+                    <div class="card-content">
+                        <p class="subtitle">
+                            “So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love.”
+                        </p>
+                        <p>
+                            - Cal Newport
+                        </p>
+                    </div>
+                    <footer class="card-footer">
+                        <p class="card-footer-item">
+                            <span><a href="/post/so-good-they-cant-ignore-you/">My Notes</a></span>
+                        </p>
+                        <p class="card-footer-item">
+                            <span><a href="https://www.amazon.com/Good-They-Cant-Ignore-You/dp/1455509124/">Amazon</a></span>
+                        </p>
+                    </footer>
+                </div>
+            </div>
+            <div class="column">
+                <div class="card">
+                    <div class="card-content">
+                        <p class="subtitle">
+                            “The Passionate Programmer: Creating a Remarkable Career in Software Development”
+                        </p>
+                        <p>
+                            - Chad Fowler
+                        </p>
+                    </div>
+                    <footer class="card-footer">
+                        <p class="card-footer-item">
+                            <span><a href="/post/the-passionate-programmer/">My Notes</a></span>
+                        </p>
+                        <p class="card-footer-item">
+                            <span><a href="https://www.amazon.com/Passionate-Programmer-Remarkable-Development-Pragmatic-ebook/dp/B00AYQNR5U">Amazon</a></span>
+                        </p>
+                    </footer>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="section">
+    <div class="container">
+        <h1 class="subtitle is-size-4-mobile is-size-2-tablet is-size-3-desktop">Frequently Asked Questions</h1>
+        <div class="columns">
+            <div class="column">
+                <div class="card">
+                    <div class="card-content">
+                        <p class="subtitle">
+                            What kind of books will I find here?
+                        </p>
+                        <div class="content">
+                            I enjoy reading about career development, productivity, software development and personal finance.
+                            You can see my most recent posts <a>here</a> or the full directory <a>here</a>.
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="columns">
+            <div class="column">
+                <div class="card">
+                    <div class="card-content">
+                        <p class="subtitle">
+                            How often do you post?
+                        </p>
+                        <div class="content">
+                            Honestly I have no Idea, sorry! Sometimes I go through a book every couple weeks.
+                            Other times it's every couple months. You can <a>subscribe</a> to updates if you want though.
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="columns">
+            <div class="column">
+                <div class="card">
+                    <div class="card-content">
+                        <p class="subtitle">
+                            Why are you doing this?
+                        </p>
+                        <div class="content">
+                            I started taking notes when I realized I couldn't recall details of my favorite books.
+                            I thought It'd be a cool personal project to formalize these notes for others to reference as well.
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="columns">
+            <div class="column">
+                <div class="card">
+                    <div class="card-content">
+                        <p class="subtitle">
+                            Ummm... What is Sparknotes?
+                        </p>
+                        <div class="content">
+                            You don't remember <a>Sparknotes</a>?!
+                            They did those little summary books and analysis so you didn't have to actually read Romeo and Juliet or whatever required reading you had in highschool. A lifesaver!
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<footer class="footer is-primary">
+  <div class="container">
+    <div class="content">
+      <div class="columns">
+        <div class="column is-two-thirds-desktop">
+          <div class="columns">
+            <div class="column">
+              <a href="/">Home</a>
+            </div>
+            <div class="column">
+              <a href="/post">Posts</a>
+            </div>
+            <div class="column">
+              <a href="/newsletter">Newsletter</a>
+            </div>
+            <div class="column">
+              <a href="/about">About</a>
+            </div>
+            <div class="column">
+              <a href="/terms">Terms</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+
+</body>
