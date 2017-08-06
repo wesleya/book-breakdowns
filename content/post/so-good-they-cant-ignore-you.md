@@ -2,9 +2,15 @@
 author: "Cal Newport"
 date: 2017-08-04
 title: "So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love"
+shortTitle: "So Good They Can't Ignore You"
+amazon: "https://www.amazon.com/Good-They-Cant-Ignore-You/dp/1455509124/"
 ---
 
-In his book “So Good They Can’t Ignore You”, Cal recounts his quest to answer the question of why some people end up loving what they do, and why others fail. The common career advice is to “Follow your passion.” First figure out what you’re passionate about, and then find a job that matches this passion. However, Cal decides early on that this is actually very bad career advice.
+In his book “So Good They Can’t Ignore You”, Cal recounts his quest to answer the question of why some people end up loving what they do, and why others fail.
+
+ <!--more-->
+
+ The common career advice is to “Follow your passion.” First figure out what you’re passionate about, and then find a job that matches this passion. However, Cal decides early on that this is actually very bad career advice.
 
 
 The idea that there’s a magic “right” job waiting for you, and all you have to do is gain the courage to go after it, can be self destructive. It can lead to self doubt about current career choices, chronic job hopping, and daily fantasies about quitting your job, instead of succeeding at what’s right in front of you. Cal claims that in reality, most people who have found career passion don’t take this route.

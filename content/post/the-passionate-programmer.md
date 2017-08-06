@@ -2,9 +2,15 @@
 author: "Chad Fowler"
 date: 2017-08-04
 title: "The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life)"
+shortTitle: "The Passionate Programmer"
+amazon: "https://www.amazon.com/Passionate-Programmer-Remarkable-Development-Pragmatic-ebook/dp/B00AYQNR5U"
 ---
 
-In his book, "The Passionate Programmer", Chad Fowler explains how you likely aren't putting enough thought into your career as a software developer. Most people follow the common path of taking the first job they get accepted to out of school. This first job will require you to learn certain skills, technologies, and habits. And this will in turn lead you to a next job with similar requirements in the future, which will lead you to the next and so on. There isn't really a plan or purpose to the career you end up with, you kind of just go with the flow leaving a large part of your career up to chance. Including the technologies you learn and the type of problems you'll solve for the rest of your career.
+In his book, "The Passionate Programmer", Chad Fowler explains how you likely aren't putting enough thought into your career as a software developer.
+
+<!--more-->
+
+Most people follow the common path of taking the first job they get accepted to out of school. This first job will require you to learn certain skills, technologies, and habits. And this will in turn lead you to a next job with similar requirements in the future, which will lead you to the next and so on. There isn't really a plan or purpose to the career you end up with, you kind of just go with the flow leaving a large part of your career up to chance. Including the technologies you learn and the type of problems you'll solve for the rest of your career.
 
 This is the opposite of how most of us will approach a software project. We'll put a lot of time and research into the different tools, design patterns, and different approaches we might want to use on a given project. We'll constantly re-evaluate our progress during the project, and take a step back to re-think our approach if we've backed ourselves down a road that doesn't seem right.
 

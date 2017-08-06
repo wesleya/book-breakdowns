@@ -2,19 +2,13 @@
 
 ## todo
 
-* pick name
-* home page
-    * make links work in faq and get started section
-    * figure out which words to highlight (.is-primary)
-    * fill in get started section with real content
-* footer
-    * make links work
+* make nav light gray so it doesn't look weird on mobile. and use a book for brand for now
+* make home page slightly smaller on mobile so the text doesn't wrap
+* use a short title on the posts page so it doesn't look so weird
+* lessen the padding on mobile so it doesn't look so weird
+* add newsletter page
 * pages
     * make separate layout for page vs post
-    * posts - add posts
-    * archive
-    * newsletter
-    * terms/privacy
 
 ## eventually
 
