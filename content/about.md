@@ -1,11 +1,9 @@
 +++
 title = "About"
-date = "2014-04-09"
+date = "2017-08-04"
 menu = "main"
 +++
 
-About This Project
-
-Have questions or suggestions? Email
+Have questions or suggestions? Email me at wesley.agena@gmail.com.
 
 Thanks for reading!
