@@ -2,7 +2,7 @@
 
 ## todo
 
-* add newsletter page
+* import only bulma modules we actually use
 * add google analytics
 * add a real about page
 * figure out my email situation
