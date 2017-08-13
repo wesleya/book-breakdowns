@@ -3,6 +3,7 @@ author: "Chad Fowler"
 date: 2017-08-04
 title: "The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life)"
 shortTitle: "The Passionate Programmer"
+cover: "http://books.google.com/books/content?id=FvJePgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
 amazon: "https://www.amazon.com/Passionate-Programmer-Remarkable-Development-Pragmatic-ebook/dp/B00AYQNR5U"
 ---
 

@@ -3,6 +3,7 @@ author: "Cal Newport"
 date: 2017-08-04
 title: "So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love"
 shortTitle: "So Good They Can't Ignore You"
+cover: "http://books.google.com/books/content?id=7kXHkQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
 amazon: "https://www.amazon.com/Good-They-Cant-Ignore-You/dp/1455509124/"
 ---
 
