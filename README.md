@@ -4,7 +4,6 @@
 
 * import only bulma modules we actually use
 * add google analytics
-* fix spacing on list and single page sub titles
 * add thumbnails for posts
 * make post titles a little bolder
 * breakup paragraphs a little more
