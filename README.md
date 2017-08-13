@@ -3,10 +3,7 @@
 ## todo
 
 * import only bulma modules we actually use
-* add google analytics
 * add thumbnails for posts
-* make post titles a little bolder
-* breakup paragraphs a little more
 * Start adding seo stuff
     * meta descriptions that look good in search engines
     * site map
