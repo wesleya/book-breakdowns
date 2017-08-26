@@ -3,7 +3,8 @@
 ## todo
 
 * Change share icon
-* sign up for affiliate account and put in the links
+* add amazon icon to amazon links?
+* update font awesome
 * get feedback and just get it out there already
 * import only bulma modules we actually use
 * add thumbnails for posts

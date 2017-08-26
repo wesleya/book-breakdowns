@@ -24,6 +24,7 @@ category = "categories"
 [params]
 
 subtitle = "todo"
+description = "It's Kinda Like Cliffs Notes For Your Career! Self-help books broken down into a single blog post. Short and to the point."
 
 [params.highlight]
 style = "github"

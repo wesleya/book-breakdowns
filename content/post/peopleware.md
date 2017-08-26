@@ -1,5 +1,5 @@
 ---
-author: "by Tom DeMarco, Tim Lister"
+author: "Tom DeMarco, Tim Lister"
 date: 2017-08-26
 title: "Peopleware: Productive Projects and Teams (3rd Edition)"
 shortTitle: "Peopleware: Productive Projects and Teams"
