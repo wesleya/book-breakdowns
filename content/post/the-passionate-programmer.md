@@ -4,7 +4,7 @@ date: 2017-08-04
 title: "The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life)"
 shortTitle: "The Passionate Programmer"
 cover: "http://books.google.com/books/content?id=FvJePgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
-amazon: "https://www.amazon.com/Passionate-Programmer-Remarkable-Development-Pragmatic-ebook/dp/B00AYQNR5U"
+amazon: "https://www.amazon.com/gp/product/1934356344/ref=as_li_tl?ie=UTF8&tag=bookbreakdown-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1934356344&linkId=9203f03ce7a2d31822c9c328c9cdbfed"
 ---
 
 In his book, "The Passionate Programmer", Chad Fowler explains how you likely aren't putting enough thought into your career as a software developer.

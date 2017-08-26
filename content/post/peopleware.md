@@ -4,7 +4,7 @@ date: 2017-08-26
 title: "Peopleware: Productive Projects and Teams (3rd Edition)"
 shortTitle: "Peopleware: Productive Projects and Teams"
 cover: "http://books.google.com/books/content?id=DVlsAQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
-amazon: "https://www.amazon.com/Peopleware-Productive-Projects-Teams-3rd/dp/0321934113"
+amazon: "https://www.amazon.com/gp/product/0321934113/ref=as_li_tl?ie=UTF8&tag=bookbreakdown-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0321934113&linkId=b5e1dbad52017a7d2393a986f53476d3"
 ---
 
 The two authors of this book, Tom and Timothy made an observation one day that the biggest and most important problems they have as managers deal with people.
