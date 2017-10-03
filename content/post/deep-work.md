@@ -4,7 +4,7 @@ date: 2017-10-03
 title: "Deep Work: Rules for Focused Success in a Distracted World"
 shortTitle: "Deep Work"
 cover: "http://books.google.com/books/content?id=foeNrgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
-amazon: "https://www.amazon.com/gp/search/ref=as_li_qf_sp_sr_il_tl?ie=UTF8&tag=bookbreakdown-20&keywords=1455586692&index=aps&camp=1789&creative=9325&linkCode=xm2&linkId=86c70cedaafd5b0ba583b5cdfaf3f2f1"
+amazon: "https://www.amazon.com/gp/product/1455586692/ref=as_li_tl?ie=UTF8&tag=bookbreakdown-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1455586692&linkId=9b14965f50a5f456480d8805244866f2"
 ---
 
 **Deep Work:** Professional activities performed in a state of distraction-free concentration that push your cognitive capabilities to their limit. These efforts create new value, improve your skill and are hard to replicate.
