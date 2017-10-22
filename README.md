@@ -27,7 +27,14 @@
 ** figure out how to add categories and auto order by categories
 
 
-## Book covers
+## Book Covers
 
+* https://www.googleapis.com/books/v1/volumes?q=the+book+title
 * https://www.googleapis.com/books/v1/volumes?q=isbn:1455509124
 * http://books.google.com/books/content?id=7kXHkQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
+
+## Affiliate Link
+
+* https://affiliate-program.amazon.com/home
+* enter ISBN in the search box
+* click link to copy affiliate link for the product. make sure not to copy the link for the search!
