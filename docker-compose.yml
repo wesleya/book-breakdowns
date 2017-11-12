@@ -1,9 +1,8 @@
 version: '2'
 services:
   develop:
-    image: hugo-server
+    image: wagena/develop-hugo:latest
     ports:
      - "1313:1313"
     volumes:
      - ./:/root/site
-
