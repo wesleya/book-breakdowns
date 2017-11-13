@@ -6,3 +6,9 @@ services:
      - "1313:1313"
     volumes:
      - ./:/root/site
+  gulp:
+    image: wagena/develop-gulp:latest
+    volumes:
+     - ./themes/current-theme:/root/site
+    command: bash -c "npm rebuild node-sass && gulp watch --verbose"
+

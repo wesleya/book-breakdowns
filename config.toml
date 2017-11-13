@@ -1,7 +1,7 @@
 baseurl = "https://bookbreakdowns.com"
 languageCode = "en"
 title = "Book Breakdowns"
-theme = "hemingway2"
+theme = "current-theme"
 copyright = "&copy; <a href=\"https://github.com/beli3ver\">Malte Kiefer</a> 2016"
 disqusShortname = "shortname"
 googleAnalytics = ""

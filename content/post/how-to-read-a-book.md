@@ -5,6 +5,7 @@ title: "How to Read a Book: The Classic Guide to Intelligent Reading"
 shortTitle: "How to Read a Book"
 cover: "http://books.google.com/books/content?id=3QOZBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
 amazon: "https://www.amazon.com/gp/product/1476790159/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=bookbreakdown-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1476790159&linkId=1abd61272ec412450d1b84af7675360a"
+direct: "http://amzn.to/2zrMDC1"
 ---
 
 Most of the education, money, and effort around reading is spent on the first 6 grades. There isn't much emphasis on improving skill level beyond that level. The average High Schooler doesn't have the skills to understand and absorb complex ideas very efficiently. There isn't much formal training to improve on this either.
