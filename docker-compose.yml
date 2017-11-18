@@ -10,5 +10,5 @@ services:
     image: wagena/develop-gulp:latest
     volumes:
      - ./themes/current-theme:/root/site
-    command: bash -c "npm rebuild node-sass && gulp watch --verbose"
+    command: bash -c "gulp watch --verbose"
 
