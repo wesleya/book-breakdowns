@@ -3,7 +3,7 @@ author: "Vicki Robin | Joe Dominguez | Monique Tilford"
 date: 2017-10-22
 title: "Your Money or Your Life: 9 Steps to Transforming Your Relationship with Money and Achieving Financial Independence: Revised and Updated for the 21st Century"
 shortTitle: "Your Money or Your Life"
-cover: "http://books.google.com/books/content?id=AxxD2jUMB0MC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+cover: "https://books.google.com/books/content?id=AxxD2jUMB0MC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
 amazon: "https://www.amazon.com/gp/product/0143115766/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=bookbreakdown-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0143115766&linkId=7bad1c37d5af837ab7206342c1f85592"
 ---
 

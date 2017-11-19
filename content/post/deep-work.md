@@ -3,7 +3,7 @@ author: "Cal Newport"
 date: 2017-10-03
 title: "Deep Work: Rules for Focused Success in a Distracted World"
 shortTitle: "Deep Work"
-cover: "http://books.google.com/books/content?id=foeNrgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+cover: "https://books.google.com/books/content?id=foeNrgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
 amazon: "https://www.amazon.com/gp/product/1455586692/ref=as_li_tl?ie=UTF8&tag=bookbreakdown-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1455586692&linkId=9b14965f50a5f456480d8805244866f2"
 direct: "http://amzn.to/2jdC8wl"
 ---
