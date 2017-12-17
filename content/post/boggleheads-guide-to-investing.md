@@ -1,7 +1,7 @@
 ---
 author: "Taylor Larimore | Mel Lindauer | Michael LeBoeuf"
 date: 2017-12-17
-title: "The Bogleheads' Guide to Investing"
+title: "The Boggleheads' Guide to Investing"
 shortTitle: "The Bogleheads' Guide to Investing"
 cover: "https://books.google.com/books/content?id=bDUWBAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
 amazon: "https://www.amazon.com/Bogleheads-Guide-Investing-Taylor-Larimore-ebook/dp/B00JUV01RW/"
