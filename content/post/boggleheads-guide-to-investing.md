@@ -4,7 +4,7 @@ date: 2017-12-17
 title: "The Boggleheads' Guide to Investing"
 shortTitle: "The Boggleheads' Guide to Investing"
 cover: "https://books.google.com/books/content?id=bDUWBAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
-amazon: "https://www.amazon.com/Bogleheads-Guide-Investing-Taylor-Larimore-ebook/dp/B00JUV01RW/"
+amazon: "https://www.amazon.com/gp/product/1118921283/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=bookbreakdown-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1118921283&linkId=cead2abe483fee29b29257c8c5cbc612"
 tag: "personal finance"
 ---
 
